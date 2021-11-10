@@ -6,5 +6,5 @@ First project assigned by Codeacademy as part of the Full Stack Developer progra
 * CSS
 
 ## Usage
-Either open the provided github page: 
+Either open the provided github page: https://williamalb.github.io/htmlCheatsheet/
 or open the index provided in a browser.
