@@ -2,8 +2,8 @@
 First project assigned by Codeacademy as part of the Full Stack Developer program
 
 ## Technology used
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Usage
 Either open the provided github page: 
